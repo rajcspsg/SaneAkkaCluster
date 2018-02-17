@@ -1,0 +1,8 @@
+target
+project/target
+SimpleAkkaCluster/target
+SimpleAkkaCluster/project/target
+SorterWithAkkaRouter/target
+SorterWithAkkaRouter/project/target
+SortWithAkkaSharding/target
+SortWithAkkaSharding/project/target     
